@@ -1,0 +1,48 @@
+.main{
+	background: #DAF7A6;
+	width: 30vw;
+	display: grid;
+	margin: 100px auto;
+	border-radius: 10px;
+	padding-top: 0px;
+	border: 1px solid black;
+}
+
+h3{
+	text-align: center;
+	line-height: 2px;
+	margin-bottom: 30px;
+}
+
+label{
+	margin-left: 5%;
+}
+
+input{
+	height: 40px;
+	width: 200px;
+	margin-left: 5%;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 3px;
+}
+
+button{
+	height: 30px;
+	width: 120px;
+	align-items: center;
+	margin-bottom: 30px;
+	margin-left: 5%;
+	background: #a0ea1a;
+	border: none;
+	border-radius: 5px;
+
+}
+
+#display{
+	font-size: 2rem;
+	background: white;
+	width: 300px;
+	margin-left: 5%;
+	margin-bottom: 20px;
+}
